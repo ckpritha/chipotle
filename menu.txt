@@ -3,3 +3,6 @@ RESTAURANT MENU
 Burger
 Pizza
 Pasta
+Pan Cakes
+Wrappers
+Waffele
